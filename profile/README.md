@@ -8,6 +8,6 @@ Security-first, open-source tools for Bitcoin, Lightning, and Nostr. FROST thres
 
 **Tools**: [wisp](https://github.com/privkeyio/wisp) (Nostr relay), [noz](https://github.com/privkeyio/noz) (Nostr CLI), [taproot-assets-rest-gateway](https://github.com/privkeyio/taproot-assets-rest-gateway), [bosun](https://github.com/privkeyio/bosun) (Bitcoin PR triage).
 
-We do security research and upstream the fixes, memory-safety, DoS, and consensus hardening, across Bitcoin Core, Bitcoin Knots, Core Lightning, LDK, BDK, rust-miniscript, ZF FROST, Lightning BOLTs, and negentropy. Full list at [privkey.io](https://privkey.io/#contributions).
+We do security research and upstream the fixes, memory-safety, DoS, and consensus hardening, across Bitcoin Core, Bitcoin Knots, Core Lightning, LDK, BDK, rust-miniscript, ZF FROST, Lightning BOLTs, and more. Full list at [privkey.io](https://privkey.io/#contributions).
 
 Building since 2018. [privkey.io](https://privkey.io) · [information@privkey.io](mailto:information@privkey.io) · [book a consultation](https://privkey.setmore.com)
